@@ -1,0 +1,194 @@
+.a{
+	height:250px;
+	width: 200px;
+	margin-left:0px;
+    margin-right:0px;
+    margin-bottom:20px;
+    margin-top:20px;
+    float: left;
+}
+
+.b{
+	height:250px;
+	width: 100px;
+	margin:30px;
+	padding:50px;
+    float: left;
+}
+.c{
+	height:250px;
+	width: 100px;
+	margin:30px;
+	padding:25px;
+    float: left;
+}
+.d{
+	height:250px;
+	width: 100px;
+	margin:30px;
+    float: left;
+}
+.button1{
+	margin:10px;
+	height:25px;
+	width: 100px;
+	border-radius:5px;
+	background-color: green;
+	border-color: green ;
+	color: white;
+	margin-left: 100px;
+}
+.button2{
+	margin:10px;
+	height:25px;
+	width: 100px;
+	border-radius:5px;
+	background-color: skyblue;
+	border-color: skyblue;
+	color: white;
+}
+.button3{
+	margin:10px;
+	height:25px;
+	width: 100px;
+	border-radius:5px;
+	background-color: skyblue;
+	border-color: skyblue;
+	color: white;
+}
+.button4{
+	margin:10px;
+	height:25px;
+	width: 100px;
+	border-radius:5px;
+	background-color: skyblue;
+	border-color: skyblue;
+	color: white;
+}
+.button5{
+	margin:10px;
+	height:25px;
+	width: 100px;
+	border-radius:5px;
+	background-color: orangered;
+	border-color: orangered;
+	color: white;
+}
+.save{
+	font-size:20px;
+	background-color: blue;
+	color: white;
+	border-radius:10px ;
+}
+.w3-grey{
+	background-color: blue;
+	text-align: left;
+}
+.w3-border{
+	margin:10px;
+	background-color: grey;
+	text-align: left;
+}
+
+.i{
+	text-align: left;
+	font-size: 20px;
+}
+.j{
+	text-align: left;
+	font-size: 20px;
+}
+.w2-border{
+	margin:10px;
+	background-color: grey;
+	text-align: left;
+}
+.w3-blue{
+	background-color: red;
+	text-align: left;
+}
+.k{
+	text-align: left;
+	font-size: 20px;
+}
+.w1-border{
+	margin:10px;
+	background-color: grey;
+	text-align: left;
+}
+.w3-pink{
+	background-color: green;
+	text-align: left;
+}
+.l{
+	text-align: left;
+	font-size: 20px;
+}
+.w4-border{
+	margin:10px;
+	background-color: grey;
+	text-align: left;
+}
+.w3-yellow{
+	background-color: yellow;
+	text-align: left;
+}
+.m{
+	text-align: left;
+	font-size: 20px;
+}
+.w5-border{
+	margin:10px;
+	background-color: grey;
+	text-align: left;
+}
+.w3-seagreen{
+	background-color:hotpink;
+	text-align: left;
+}
+.n{
+	text-align: left;
+	font-size: 20px;
+}
+.x{
+	font-size: 25px;
+	color: dimgrey;
+}
+.w{
+	margin:10px;
+	height:40px;
+	width: 100px;
+	border-radius:5px;
+	background-color: blue;
+	color: white;
+	font-size: 20px;
+}
+.o{
+	margin:10px;
+	height:40px;
+	width: 100px;
+	border-radius:5px;
+	background-color: white;
+	color: blue;
+	font-size: 20px;
+}
+.boot{
+	text-align: left;
+	font-size: 30px;
+}
+.git{
+	text-align: left;
+	font-size: 30px;
+}
+.twitter{
+	text-align: left;
+	font-size: 30px;
+}
+.insta{
+	text-align: left;
+	font-size: 30px;
+}
+.fb{
+	text-align: left;
+	font-size: 30px;
+}

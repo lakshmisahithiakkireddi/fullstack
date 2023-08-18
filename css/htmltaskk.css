@@ -1,0 +1,132 @@
+main{
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 60px;
+  
+
+}
+.abc{
+	height: 100px;
+	width: 800px;
+	background-color: white
+
+}
+.image{
+	display: block;
+  margin-left: 500px;
+  margin-right: 500px;
+  height: 25px;
+  width: 10%;
+  border: 20px solid white;
+}
+.title{
+    font-size: 20px;
+}
+.heading{
+    height: 25px;
+    width: 800px;
+    font-size: 25px;
+    font-family: italic
+}
+
+#home{
+    
+    font-family: italic;
+    font-size: 20px;
+}
+#header{
+    text-indent: left;
+    font-family: italic;
+    font-size: 15px;
+}
+#table{
+    font-family: bold;
+    font-size: 40px;
+}
+
+table, th, td {
+ border: 1px solid black;
+  border-collapse: collapse;
+  height: 50px;
+  width: 1000px;
+  text-align: left;
+  margin-left: 50px; 
+}
+#unorder{
+    font-family: bold;
+    font-size: 40px;
+}
+.un{
+    font-family: italic;
+    font-size: 20px;
+}
+#order{
+    font-family: bold;
+    font-size: 40px;}
+
+.or{
+    font-family: italic;
+    font-size: 20px;
+}
+#dis{
+    font-family: bold;
+    font-size: 40px;
+}
+dt{
+    font: bold;
+    font-size: 20px;
+}
+#text{
+    font-family: bold;
+    font-size: 40px;
+}
+.pre{
+    font-family: bold;
+    font-size: 30px;
+}
+.div{
+    height: 200px;
+    widows: 1000px;
+    text-align: center;
+    font-family: cursive;
+background-color: rgb(242, 243, 244);
+    border: 20px solid rgb(242, 243, 244);
+
+}
+.code{
+    font-family: bold;
+    font-size: 40px;}
+#block{
+    font-family: bold;
+    font-size: 40px;
+}
+.swa{
+    font-family: italic;
+    font-size: 20px;
+
+}
+.bha{
+    font-style: oblique;
+    font-size: 20px;
+}
+.lab{
+    height: 50px;
+    width: 50px;
+}
+.form{
+    font-family: italic;
+    font-size: 20px;
+    text-align: right;
+}
+.last{
+    height: 100px;
+    width: 1200px;
+    background-color:rgb(242, 243, 244) ;
+    text-align:center;
+ display: block;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    }
+
+

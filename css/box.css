@@ -1,0 +1,12 @@
+.a{
+	width: 200px;
+	height: 200px;
+	background-color: deepskyblue;
+	box-shadow:10px 10px 10px blue;
+	margin: 40px;
+	outline-color: gray;
+	padding: 50px ;
+	font-size: 30px;
+	font-family: cursive;
+
+}

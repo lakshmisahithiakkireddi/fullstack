@@ -1,0 +1,24 @@
+/*body{
+	background-image:url('nature.png');
+	background-repeat:no-repeat;
+	background-size: cover;
+}*/
+/*.rectangle{
+	height: 200px;
+	width: 300px;
+	background-color:aqua;
+	font-size: 40px;
+	outline: 15px dotted blueviolet;
+}
+div{
+	padding-top:80px;
+	margin: 100px;
+}*/
+.rectangle{
+	height:150px;
+	width:200px;
+	background-color:aqua;
+	font-size: 40px;
+	outline: 15px solid blueviolet;
+}
+
